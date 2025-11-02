@@ -75,7 +75,7 @@ TensorFlow • Keras • OpenCV • Scikit-learn
 
 ## 🏆 Training & Certifications
 
-- 🎯 **Java Full Stack Developer** — *Achievers IT, Hyderabad (Aug 2025 – Present)*  
+- 🎯 **Java Full Stack Developer** —  Hyderabad (Aug 2025 – Present)*  
 - 💻 **Developer Program** — *Pupilfirst School (Apr 2024 – May 2024)*  
   *Certificate ID:* **240507-BIYG9T**  
 - 📜 **Machine Learning with Python** — *Coursera (2024)*  
