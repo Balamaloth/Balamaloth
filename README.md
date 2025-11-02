@@ -1,82 +1,143 @@
+<!-- Multiple Coding GIFs in a Row -->
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+  <img height="250" width="250" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding GIF 1" style="margin:5px;" />
+
+  <img height="250" width="250" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Coding GIF 2" style="margin:5px;" />
+
+ <img height="250" width="250" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF 3" />
+
 </div>
 
-###
+####
+
+<!-- Modern & Animated GitHub Profile README (Enhanced Version) -->
+
+<h1 align="center">✨ Hi, I'm <span style="color:#00C0FF;">Balakrishna Maloth</span> 👋</h1>
+
+<h3 align="center">💻 Java Full Stack Developer | 🌐 Web Innovator | 🤖 AI Enthusiast</h3>
+
+---
+
+## 🧑‍💻 About Me
+
+🎓 **B.Tech in Computer Science & Information Technology**  
+📍 *Sri Indu College of Engineering & Technology, Hyderabad*  
+💡 Passionate about building creative, scalable, and meaningful solutions  
+⚙️ Exploring AI-powered and web-based innovations every day  
+🌱 Lifelong learner, always experimenting with **new technologies**  
+🎯 Strong problem-solving skills and collaborative mindset  
+
+---
+
+## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+
+🧠 **Languages:**  
+Java • JavaScript • Python • HTML5 • CSS3  
+
+🗄️ **Databases:**  
+SQL • SSMS • MongoDB • DBMS  
+
+🧰 **Tools & Platforms:**  
+Git • GitHub • VS Code • IntelliJ IDEA • React • Node.js • Spring Boot  
+
+☁️ **Cloud & Deployment:**  
+Heroku • Netlify • Firebase  
+
+🤖 **AI & ML:**  
+TensorFlow • Keras • OpenCV • Scikit-learn  
+
 </div>
 
-###
+---
+
+## 🌟 Featured Projects
+
+### 🔹 [Future Gadget Expo 2025](#)
+> A tech event showcase website focused on futuristic innovations in **AI**, **Robotics**, and **Space Tech**.  
+> *Features:* Event schedule, speaker profiles, live updates, and registration portal.
+
+### 🔹 [Guava Disease Detection using CNN](#)
+> Built a **Convolutional Neural Network (CNN)** to classify guava leaf diseases from images, enabling **smart agriculture**.  
+> *Impact:* Helps farmers identify diseases early and improve crop yield.
+
+### 🔹 [Portfolio Website](#)
+> Personal portfolio to showcase projects, skills, and achievements.  
+> *Technologies:* React, Tailwind CSS, Netlify Deployment.
+
+### 🔹 [Task Manager App](#)
+> A productivity app to manage tasks, set deadlines, and track progress.  
+> *Technologies:* JavaScript, Node.js, MongoDB.
+
+---
+
+## 🏆 Training & Certifications
+
+- 🎯 **Java Full Stack Developer** — *Achievers IT, Hyderabad (Aug 2025 – Present)*  
+- 💻 **Developer Program** — *Pupilfirst School (Apr 2024 – May 2024)*  
+  *Certificate ID:* **240507-BIYG9T**  
+- 📜 **Machine Learning with Python** — *Coursera (2024)*  
+- 🌐 **React & Modern Frontend Development** — *Udemy (2024)*  
+
+---
+
+## 🌱 Currently Exploring
+
+- 🔹 Spring Boot & REST APIs  
+- 🔹 Modern Frontend Frameworks (React.js, Next.js)  
+- 🔹 AI & ML Model Deployment  
+- 🔹 Cloud & Serverless Architectures  
+
+---
+
+## 💡 Fun Facts About Me
+
+- 🎵 Music lover 🎧, often coding with background tunes  
+- 📚 Avid reader of tech blogs and AI research papers  
+- 🎮 Gaming enthusiast (strategy & puzzle games)  
+- ✈️ Travel aficionado exploring new cultures and cuisines  
+
+---
+
+## 📊 GitHub Highlights
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+
+![Balakrishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BalaMaloth&show_icons=true&theme=radical&hide_border=true&border_radius=15)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BalaMaloth&layout=compact&theme=radical&hide_border=true&border_radius=15)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BalaMaloth&theme=radical&hide_border=true&border_radius=15)
+
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-
-
-<h1 align="center"> I'm BALAKRISHNA MALOTH </h1> 
-
 ---
 
-<h3 align="left">👩‍💻  About Me</h3>
-🎓 **COMPUTER SCIENCE AND INFORMACTION TECHNOLOGY graduat** at the sri indu college Engineering and technology , graduated in **May 2025**. I'm  building scalable web applications, solving algorithmic problems, and continuously learning modern tech stacks.
+## 💬 Connect With Me
 
-
----
-
-- 📫 How to reach me **balasainik3@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
----
-<h3 align="left">    ## 🌐 Connect with me:</h3>
-
-<p align="left" >
-<a href="https://dev.to/balamaloth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="balamaloth" height="30" width="40" /></a> <br>
-<a href="https://twitter.com/balamaloth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balamaloth" height="30" width="40" /></a> <br>
-<a href="https://linkedin.com/in/bala-maloth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bala-maloth" height="30" width="40" /></a> <br>
-
-<a href="https://discord.gg/21121%m4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="21121%m4" height="30" width="40" /></a>
-</p>
-
----
-
-
-
-
-
-
-## 📊 Coding Profiles
-
-- 🔹 [LeetCode: balamaloth](https://leetcode.com/u/balamaloth/) — 350+ problems solved, 
-
-
----
-
-
-<h3 align="left">Languages and Tools:</h3>
-## 💻 Tech Stack
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white" alt="HTML" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" alt="CSS" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black" alt="JavaScript" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black" alt="React.js" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" alt="SQL Server" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white" alt="C" style="margin:5px;" />
+  <a href="mailto:balasainik3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/BalaMaloth">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/BalaMaloth">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://twitter.com/BalaMaloth">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
 </p>
 
+---
+
+<h3 align="center">
+🌈 “Code. Create. Conquer. 🚀”  
+</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C0FF,100:8A2BE2&height=100&section=footer" width="100%">
+</p>
