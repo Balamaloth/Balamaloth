@@ -5,7 +5,7 @@
 
   <img height="250" width="250" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Coding GIF 2" style="margin:5px;" />
 
- <img height="250" width="250" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF 3" />
+ <img height="280" width="250" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF 3" />
 
 </div>
 
