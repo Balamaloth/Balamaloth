@@ -97,7 +97,7 @@ TensorFlow • Keras • OpenCV • Scikit-learn
 - 🎵 Music lover 🎧, often coding with background tunes  
 - 📚 Avid reader of tech blogs and AI research papers  
 - 🎮 Gaming enthusiast (strategy & puzzle games)  
-- ✈️ Travel aficionado exploring new cultures and cuisines  
+- 🚂 Travel aficionado exploring new cultures and cuisines  
 
 ---
 
