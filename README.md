@@ -16,7 +16,7 @@
 
 <h1 align="center">✨ Hi, I'm <span style="color:#00C0FF;">Balakrishna Maloth</span> 👋</h1>
 
-<h3 align="center">💻 Java Full Stack Developer | 🌐 Web Innovator | 🤖 AI Enthusiast</h3>
+<h3 align="center">💻  Full Stack Developer | 🌐 Web Innovator | 🤖 AI Enthusiast</h3>
 
 ---
 
