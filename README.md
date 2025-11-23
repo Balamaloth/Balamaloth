@@ -1,4 +1,4 @@
-           
+            
  <!-- Multiple Coding GIFs in a Row -->
 <div align="center">
 
