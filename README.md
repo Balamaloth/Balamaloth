@@ -36,7 +36,7 @@
 <div align="center">
 
 🧠 **Languages:**  
-Java • JavaScript • Python • HTML5 • CSS3  
+Python • JavaScript • Java • HTML5 • CSS3  
 
 🗄️ **Databases:**  
 SQL • SSMS • MongoDB • DBMS  
