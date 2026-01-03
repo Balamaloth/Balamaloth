@@ -102,19 +102,6 @@ TensorFlow • Keras • OpenCV • Scikit-learn
 
 ---
 
-## 📊 GitHub Highlights
-
-<div align="center">
-
-![Balakrishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BalaMaloth&show_icons=true&theme=radical&hide_border=true&border_radius=15)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BalaMaloth&layout=compact&theme=radical&hide_border=true&border_radius=15)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BalaMaloth&theme=radical&hide_border=true&border_radius=15)
-
-</div>
-
----
 
 ## 💬 Connect With Me
 
