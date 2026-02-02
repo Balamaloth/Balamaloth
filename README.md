@@ -1,35 +1,32 @@
-&lt;!-- Header Banner --&gt;
-&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Balakrishna%20Maloth&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55" width="100%"&gt;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Balakrishna%20Maloth&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55" width="100%"/>
 
-&lt;!-- Typing Animation --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+the+future+with+code;Python+%7C+JavaScript+%7C+AI/ML" alt="Typing SVG" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+the+future+with+code;Python+%7C+JavaScript+%7C+AI%2FML" />
+</p>
 
-&lt;!-- Social Badges --&gt;
-&lt;p align="center"&gt;
-  &lt;a href="https://www.linkedin.com/in/bala-maloth/"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:balasainik3@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://github.com/Balamaloth"&gt;
-    &lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=Balamaloth&color=6366f1&style=for-the-badge&label=Profile+Views" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://www.linkedin.com/in/bala-maloth/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:balasainik3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Balamaloth">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Balamaloth&color=6366f1&style=for-the-badge&label=Profile+Views"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **Final-year B.Tech CSIT** student at Sri Indu College of Engineering & Technology (2021-2025)
-- 🌱 Currently training as a **Python Full Stack Developer** at Achievers IT, Hyderabad
-- 💡 Passionate about **AI/ML**, **Web Development**, and **Problem Solving**
-- 🔍 Working on **AI-based Agriculture solutions** (Guava Disease Detection using CNN)
-- 📍 Based in **Hyderabad, India**
-- 📧 Reach me at: **balasainik3@gmail.com** | **+91 8500477151**
+- 🎓 **B.Tech Graduate – Computer Science & Information Technology (2025)**
+- 🧑‍💻 **Python Full Stack Developer (Training – Achievers IT, Hyderabad)**
+- 💡 Strong interest in **AI/ML**, **Web Development**, and **Backend Systems**
+- 🌱 Built **AI-based agriculture solutions** using CNN
+- 📍 Hyderabad, India  
+- 📧 **balasainik3@gmail.com** | 📞 **+91 8500477151**
 
 ---
 
@@ -46,7 +43,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Platforms
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -56,89 +53,78 @@
 
 ## 📂 Featured Projects
 
-### 1. 🎯 Guava Disease Detection using CNN
-**Duration:** October 2024 - March 2025
+### 🌿 Guava Disease Detection using CNN
+**Oct 2024 – Mar 2025**
 
-AI-powered solution for detecting guava plant diseases from leaf/fruit images using Convolutional Neural Networks.
+AI-powered system to detect guava plant diseases from leaf & fruit images using CNN.
 
-**Key Features:**
-- ✅ Automated feature extraction (color, texture, shape)
-- ✅ Real-time classification capabilities
-- ✅ Smart agriculture support system
+**Highlights**
+- Automated feature extraction
+- High-accuracy image classification
+- Smart agriculture support
 
-**Tech Stack:** `Python` `TensorFlow` `OpenCV` `CNN`
-
-[View Project](#) • [Documentation](#)
+**Tech:** `Python` `TensorFlow` `OpenCV` `CNN`  
+🔗 Repo: https://github.com/Balamaloth/guava_disease
 
 ---
 
-### 2. 🚀 Future Gadget Expo 2025
-**Duration:** April 2024 - May 2024 | **Organization:** Pupilfirst School
+### 🚀 Future Gadget Expo 2025
+**Apr 2024 – May 2024 | Pupilfirst School**
 
-A comprehensive tech event platform showcasing innovations in AI, Robotics, Space, and Biotech.
+Futuristic tech-expo website showcasing innovations in AI, Robotics, Space & Biotech.
 
-**Key Features:**
-- 🌐 Interactive exhibition interface
-- 🤖 Futuristic gadget showcases
-- 🎤 Speaker and event management system
-
-**Tech Stack:** `Node.js` `HTML5` `CSS3` `JavaScript`
-
-[Live Demo](#) • [Source Code](#)
+**Tech:** `HTML` `CSS` `JavaScript` `Node.js`  
+🌐 Live: https://balamaloth.github.io/FUTURE-GADGET-EXPO-2025/home.html
 
 ---
 
 ## 📊 GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img width="48%" src="https://github-readme-stats.vercel.app/api?username=Balamaloth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" /&gt;
-  &lt;img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Balamaloth&theme=tokyonight&hide_border=true&background=1a1b27" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Balamaloth&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Balamaloth&theme=tokyonight&hide_border=true"/>
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=Balamaloth&theme=react-dark&hide_border=true&bg_color=1a1b27&line=6366f1&point=ff0000" width="98%"/&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balamaloth&theme=react-dark&hide_border=true&line=6366f1"/>
+</p>
 
 ---
 
 ## 🎓 Education
 
-| Year | Degree/Certificate | Institution |
-|------|-------------------|-------------|
-| **2021-2025** | B.Tech (CSIT) | Sri Indu College of Engineering & Technology |
-| **2021** | Senior Secondary (XII) - Science | TTWR Sainik School, Ashok Nagar, Warangal |
-| **2019** | Secondary (X) | Vignan High School |
-| **2025-Present** | Python Full Stack Developer Certification | Achievers IT, Hyderabad |
+| Year | Qualification | Institution |
+|------|--------------|-------------|
+| 2021–2025 | B.Tech (CSIT) | Sri Indu College of Engineering & Technology |
+| 2021 | Senior Secondary (XII) | TTWR Sainik School, Warangal |
+| 2019 | Secondary (X) | Vignan High School |
+| 2025–Present | Python Full Stack | Achievers IT, Hyderabad |
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
-&lt;picture&gt;
-  &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /&gt;
-  &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /&gt;
-  &lt;img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" /&gt;
-&lt;/picture&gt;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 ---
 
 ## 🤝 Connect With Me
 
-&lt;p align="center"&gt;
-  &lt;a href="https://www.linkedin.com/in/bala-maloth/"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:balasainik3@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://github.com/Balamaloth"&gt;
-    &lt;img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://www.linkedin.com/in/bala-maloth/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge"/>
+  </a>
+  <a href="mailto:balasainik3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge"/>
+  </a>
+</p>
 
-&lt;p align="center"&gt;
-  💼 &lt;b&gt;Open to opportunities in Full Stack Development and AI/ML roles&lt;/b&gt; 💼
-&lt;/p&gt;
+<p align="center">
+  💼 <b>Open to Full Stack Developer & AI/ML opportunities</b>
+</p>
 
-&lt;!-- Footer --&gt;
-&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%"&gt;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%"/>
+
